@@ -12,7 +12,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
-
+// Sửa tính năng logout
 import org.hibernate.annotations.CreationTimestamp;
 
 /**
