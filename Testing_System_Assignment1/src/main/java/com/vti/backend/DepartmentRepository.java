@@ -20,6 +20,8 @@ public class DepartmentRepository {
 		sessionFactory = buildSessionFactory();
 	}
 
+	// bổ sung chức năng
+
 	private SessionFactory buildSessionFactory() {
 		// load configuration
 		Configuration configuration = new Configuration();
