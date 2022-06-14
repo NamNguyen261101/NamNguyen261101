@@ -8,7 +8,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
-
+// hí
 @Entity
 @Table(name = "Department", catalog = "TestingSystem")
 public class Department implements Serializable {
